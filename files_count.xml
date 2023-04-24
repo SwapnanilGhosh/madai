@@ -16,13 +16,13 @@
 	<json/>
 	<txt/>
 	<autocad/>
-	<fonts>10</fonts>
+	<fonts>16</fonts>
 	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>1us222121@gmail.com</email>
-	<theme_name>WmdTheme701726</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1us222121_gmail.com_n038zz2mab/</server_url_front_page>
+	<theme_name>WmdTheme701889</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1us222121_gmail.com_h91bw0aqqt/</server_url_front_page>
 	<no_www_url>robodoge.my.canva.site</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>https://robodoge.my.canva.site/mad-ai</original_archive_url>
@@ -31,5 +31,5 @@
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>2016</total_size>
+	<total_size>2288</total_size>
 </pagescount>
